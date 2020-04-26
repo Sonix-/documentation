@@ -3,7 +3,7 @@
 ### Getting Started
 To open the map editor press the "Editor" button in the main menu or "Control + Shift + E" in the game.  
 This is what you should see.  
-http://img816.imageshack.us/img816/1142/screenshot2011041315195.png
+![editor view](images/map1.png)
 
 ### Starting, Saving, and Loading a Map
 To create a new map (the editor already comes with one open smile), click "File" at the top left of your screen. You should see a drop-down list. In that list, you can see the essentials: New, Load, Save, and Save as.
